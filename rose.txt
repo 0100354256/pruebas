@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Romina es la mejor!
+=======
+Sergio es el mejor sin duda
+>>>>>>> Version Sergio 2
